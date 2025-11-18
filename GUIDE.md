@@ -1,1 +1,3 @@
-Version main avec conflit
+<<<<<<< HEAD
+Version sans conflit
+>>>>>>> feature/guide-conflict
